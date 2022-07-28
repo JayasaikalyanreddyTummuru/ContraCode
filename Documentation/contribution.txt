@@ -1,0 +1,32 @@
+
+
+Charishma Anubrolu:
+Worked on Lexer and committed the code to Github.
+Worked on Language design and setup grammar rules
+Designed parser using ANTLR
+Evaluated the expressions using operators precedence.
+
+Gnana Chaitanya Ummadisingu:
+Worked on implementing the data structures to Contracode.
+Worked on runtime implementation of ANTLR using python
+Documentation of the project
+
+Jayasai Kalyan Reddy Tummuru
+Designed and implemented lexer for the language and pushed the code to github.
+Language Design (operators,loops,ternary....) (for the milestone-1)
+Implemented interpreter and error class.
+
+Vishnu Preetham Reddy Dasari
+Worked on implementing comparison and assignment operators. 
+Worked on power operator. 
+Also worked on declaring variables. 
+Assisted Neeraj with the looping structure. 
+
+Neeraj Patel:
+Designing the grammar for the language.
+Created git repo and helped with the merge and reviewed the changes.
+Implemented the IF ELSE condition, FOR loop and while loop.
+
+
+
+Github link: https://github.com/neerajp926/SER502-Spring2022-Team32
